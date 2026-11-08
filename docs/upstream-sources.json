@@ -1,0 +1,163 @@
+[
+  {
+    "repo": "acidanthera/OpenCorePkg",
+    "source": "https://github.com/acidanthera/OpenCorePkg",
+    "license_url": "https://github.com/acidanthera/OpenCorePkg/blob/master/LICENSE.txt",
+    "license_file": "licenses/acidanthera--OpenCorePkg.txt",
+    "license_id": "BSD-3-Clause"
+  },
+  {
+    "repo": "acidanthera/OcBinaryData",
+    "source": "https://github.com/acidanthera/OcBinaryData",
+    "license_url": "https://github.com/acidanthera/OcBinaryData",
+    "status": "upstream license file not retrieved",
+    "error_type": "HTTPError"
+  },
+  {
+    "repo": "acidanthera/Lilu",
+    "source": "https://github.com/acidanthera/Lilu",
+    "license_url": "https://github.com/acidanthera/Lilu/blob/master/LICENSE.txt",
+    "license_file": "licenses/acidanthera--Lilu.txt",
+    "license_id": "BSD-3-Clause"
+  },
+  {
+    "repo": "acidanthera/VirtualSMC",
+    "source": "https://github.com/acidanthera/VirtualSMC",
+    "license_url": "https://github.com/acidanthera/VirtualSMC/blob/master/LICENSE.txt",
+    "license_file": "licenses/acidanthera--VirtualSMC.txt",
+    "license_id": "BSD-3-Clause"
+  },
+  {
+    "repo": "acidanthera/WhateverGreen",
+    "source": "https://github.com/acidanthera/WhateverGreen",
+    "license_url": "https://github.com/acidanthera/WhateverGreen/blob/master/LICENSE.txt",
+    "license_file": "licenses/acidanthera--WhateverGreen.txt",
+    "license_id": "BSD-3-Clause"
+  },
+  {
+    "repo": "acidanthera/AppleALC",
+    "source": "https://github.com/acidanthera/AppleALC",
+    "license_url": "https://github.com/acidanthera/AppleALC/blob/master/LICENSE.txt",
+    "license_file": "licenses/acidanthera--AppleALC.txt",
+    "license_id": "BSD-3-Clause"
+  },
+  {
+    "repo": "Mieze/RTL8111_driver_for_OS_X",
+    "source": "https://github.com/Mieze/RTL8111_driver_for_OS_X",
+    "license_url": "https://github.com/Mieze/RTL8111_driver_for_OS_X",
+    "status": "upstream license file not retrieved",
+    "error_type": "HTTPError"
+  },
+  {
+    "repo": "OpenIntelWireless/itlwm",
+    "source": "https://github.com/OpenIntelWireless/itlwm",
+    "license_url": "https://raw.githubusercontent.com/OpenIntelWireless/itlwm/master/LICENSE",
+    "license_file": "licenses/OpenIntelWireless--itlwm.txt",
+    "license_id": "upstream license text"
+  },
+  {
+    "repo": "OpenIntelWireless/IntelBluetoothFirmware",
+    "source": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware",
+    "license_url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/blob/master/LICENSE",
+    "license_file": "licenses/OpenIntelWireless--IntelBluetoothFirmware.txt",
+    "license_id": "GPL-3.0"
+  },
+  {
+    "repo": "acidanthera/BrcmPatchRAM",
+    "source": "https://github.com/acidanthera/BrcmPatchRAM",
+    "license_url": "https://github.com/acidanthera/BrcmPatchRAM/blob/master/LICENSE",
+    "license_file": "licenses/acidanthera--BrcmPatchRAM.txt",
+    "license_id": "GPL-2.0"
+  },
+  {
+    "repo": "USBToolBox/kext",
+    "source": "https://github.com/USBToolBox/kext",
+    "license_url": "https://github.com/USBToolBox/kext",
+    "status": "upstream license file not retrieved",
+    "error_type": "HTTPError"
+  },
+  {
+    "repo": "acidanthera/CPUFriend",
+    "source": "https://github.com/acidanthera/CPUFriend",
+    "license_url": "https://github.com/acidanthera/CPUFriend/blob/master/LICENSE",
+    "license_file": "licenses/acidanthera--CPUFriend.txt",
+    "license_id": "BSD-3-Clause"
+  },
+  {
+    "repo": "acidanthera/CpuTscSync",
+    "source": "https://github.com/acidanthera/CpuTscSync",
+    "license_url": "https://github.com/acidanthera/CpuTscSync/blob/master/LICENSE",
+    "license_file": "licenses/acidanthera--CpuTscSync.txt",
+    "license_id": "BSD-3-Clause"
+  },
+  {
+    "repo": "acidanthera/RestrictEvents",
+    "source": "https://github.com/acidanthera/RestrictEvents",
+    "license_url": "https://github.com/acidanthera/RestrictEvents/blob/master/LICENSE.txt",
+    "license_file": "licenses/acidanthera--RestrictEvents.txt",
+    "license_id": "BSD-3-Clause"
+  },
+  {
+    "repo": "1Revenger1/ECEnabler",
+    "source": "https://github.com/1Revenger1/ECEnabler",
+    "license_url": "https://github.com/1Revenger1/ECEnabler",
+    "status": "upstream license file not retrieved",
+    "error_type": "HTTPError"
+  },
+  {
+    "repo": "acidanthera/NVMeFix",
+    "source": "https://github.com/acidanthera/NVMeFix",
+    "license_url": "https://github.com/acidanthera/NVMeFix/blob/master/LICENSE.txt",
+    "license_file": "licenses/acidanthera--NVMeFix.txt",
+    "license_id": "NOASSERTION"
+  },
+  {
+    "repo": "acidanthera/HibernationFixup",
+    "source": "https://github.com/acidanthera/HibernationFixup",
+    "license_url": "https://github.com/acidanthera/HibernationFixup/blob/master/LICENSE.txt",
+    "license_file": "licenses/acidanthera--HibernationFixup.txt",
+    "license_id": "BSD-3-Clause"
+  },
+  {
+    "repo": "RehabMan/OS-X-USB-Inject-All",
+    "source": "https://github.com/RehabMan/OS-X-USB-Inject-All",
+    "license_url": "https://github.com/RehabMan/OS-X-USB-Inject-All/blob/master/License.md",
+    "license_file": "licenses/RehabMan--OS-X-USB-Inject-All.txt",
+    "license_id": "NOASSERTION"
+  },
+  {
+    "repo": "acidanthera/VoodooPS2",
+    "source": "https://github.com/acidanthera/VoodooPS2",
+    "license_url": "https://github.com/acidanthera/VoodooPS2/blob/master/LICENSE.md",
+    "license_file": "licenses/acidanthera--VoodooPS2.txt",
+    "license_id": "NOASSERTION"
+  },
+  {
+    "repo": "VoodooI2C/VoodooI2C",
+    "source": "https://github.com/VoodooI2C/VoodooI2C",
+    "license_url": "https://github.com/VoodooI2C/VoodooI2C/blob/master/LICENSE.txt",
+    "license_file": "licenses/VoodooI2C--VoodooI2C.txt",
+    "license_id": "GPL-3.0"
+  },
+  {
+    "repo": "acidanthera/BrightnessKeys",
+    "source": "https://github.com/acidanthera/BrightnessKeys",
+    "license_url": "https://github.com/acidanthera/BrightnessKeys/blob/master/LICENSE",
+    "license_file": "licenses/acidanthera--BrightnessKeys.txt",
+    "license_id": "BSD-3-Clause"
+  },
+  {
+    "repo": "dortania/OpenCore-Legacy-Patcher",
+    "source": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "license_url": "https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/LICENSE.txt",
+    "license_file": "licenses/dortania--OpenCore-Legacy-Patcher.txt",
+    "license_id": "NOASSERTION"
+  },
+  {
+    "repo": "nullmoth/nvidia-macos-driver",
+    "source": "https://github.com/nullmoth/nvidia-macos-driver",
+    "license_url": "https://github.com/nullmoth/nvidia-macos-driver/blob/main/LICENSE",
+    "license_file": "licenses/nullmoth--nvidia-macos-driver.txt",
+    "license_id": "NOASSERTION"
+  }
+]

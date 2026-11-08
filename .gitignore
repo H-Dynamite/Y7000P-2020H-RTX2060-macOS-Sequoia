@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.panic
+*.ips
+*.log
+*.before-*
+authorized_keys
+id_ed25519*
+id_rsa*
+*.private.*
+local/
+build/
+dist/
